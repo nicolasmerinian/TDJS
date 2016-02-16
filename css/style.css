@@ -1,0 +1,22 @@
+body {
+	background : #666;
+}
+
+#conteneur {
+	width : 800px;
+	height : 600px;
+	border : 1px solid #333;
+	margin : 0 auto;
+	margin-top : 50px;
+	background : #FFF;
+	text-align : center;
+	-moz-box-shadow : 0 0 5px 5px #444;
+	-webkit-box-shadow : 0 0 5px 5px #444;
+	box-shadow : 0 0 5px 5px #444
+}
+
+#canvas {
+	/* background-color : #FFF; */
+	/* background-image : url('../graphics/carreau.png'); */
+	/* cursor : pointer; */
+}
